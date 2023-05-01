@@ -10,7 +10,6 @@ This is a Deep Learning project that aims to classify images as containing eithe
 
 # Convolutional Neural Networks
 
-
 <p align="center">
   <img src="https://d33wubrfki0l68.cloudfront.net/a7664cf19de33b2c71a482629f27a0d70f715b77/6949d/images/blog/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way.jpg"/>
 </p>
@@ -24,8 +23,16 @@ The main advantage of CNNs over other types of neural networks is their ability 
 # Dataset
 The dataset used for this project is "The Asirra dataset," which consists of over 25,000 images of dogs and cats annotated images of cats and dogs. The dataset was extracted from two different sources : Microsoft for the TensorFlow notebook and Kaggle for the PyTorch notebook. Don't worry about the dataset, you will download from the TensorFlow notebook and PyTorch notebook.
 
-# Notebooks
-This project contains two Jupyter notebooks - one for TensorFlow and one for PyTorch. Both notebooks contain the same code and implement CNN architecture with some differences. The notebooks provide a step-by-step guide for training and evaluating the model, as well as for testing the model on new images.
+# Files
+The repository contains various files including :
+
+- Cats_vs_Dogs_CNN_PyTorch.ipynb : Jupyter notebook containing the code for the Convolutional Neural Network model developed in PyTorch.
+
+- Cats_vs_Dogs_CNN_TensorFlow_Keras.ipynb: Jupyter notebook containing the code for the Convolutional Neural Network model developed in TensorFlow/Keras.
+
+- cat.jpg: Example image of the input data used to test the models.
+
+- images_results.png: Visualization of the results obtained from the PyTorch notebook.
 
 # Dependencies
 This project requires the following dependencies:
