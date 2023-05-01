@@ -22,7 +22,7 @@ The convolutional layers are the core of the network and apply filters to the in
 The main advantage of CNNs over other types of neural networks is their ability to effectively extract features from images. The convolutional layers in the network are able to learn filters that detect edges, corners, and other basic features in the image, while deeper layers can learn more complex features such as patterns and textures.
 
 # Dataset
-The dataset used for this project is "The Asirra dataset," which consists of over 25,000 images of dogs and cats annotated images of cats and dogs. The dataset was extracted from two different sources : Microsoft for the TensorFlow notebook and Kaggle for the PyTorch notebook.
+The dataset used for this project is "The Asirra dataset," which consists of over 25,000 images of dogs and cats annotated images of cats and dogs. The dataset was extracted from two different sources : Microsoft for the TensorFlow notebook and Kaggle for the PyTorch notebook. Don't worry about the dataset, you will download from the TensorFlow notebook and PyTorch notebook.
 
 # Notebooks
 This project contains two Jupyter notebooks - one for TensorFlow and one for PyTorch. Both notebooks contain the same code and implement CNN architecture with some differences. The notebooks provide a step-by-step guide for training and evaluating the model, as well as for testing the model on new images.
