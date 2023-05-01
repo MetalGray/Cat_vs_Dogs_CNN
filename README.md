@@ -37,10 +37,8 @@ To use this project, simply download or clone the repository and open the Jupyte
 # Results
 
 <p align="center">
-  <img src="https://github.com/MetalRay/Cats_vs_Dogs_CNN/blob/images_results.png" />
+  <img src="https://raw.githubusercontent.com/MetalGray/Cat_vs_Dogs_CNN/main/images_results.png" />
 </p>
-
-![alt text](https://github.com/MetalGray/Cats_vs_Dogs_CNN/blob/main/images_results.png?raw=true)
 
 # Credits
 This project was created by MetalGray and hlargitte. The dataset used for this project is "The Asirra dataset," which is available under the Microsoft but also in Kaggle. Here are the two URLs to retrieve the dataset :
