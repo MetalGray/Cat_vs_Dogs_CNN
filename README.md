@@ -48,7 +48,7 @@ To use this project, simply download or clone the repository and open the Jupyte
 </p>
 
 # Credits
-This project was created by MetalGray and hlargitte. The dataset used for this project is "The Asirra dataset," which is available under the Microsoft but also in Kaggle. Here are the two URLs to retrieve the dataset :
+This project was created by MetalGray and LH-devcat. The dataset used for this project is "The Asirra dataset," which is available under the Microsoft but also in Kaggle. Here are the two URLs to retrieve the dataset :
 
 - Microsoft : https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip
 - Kaggle : https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview/evaluation
