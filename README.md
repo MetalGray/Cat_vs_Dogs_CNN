@@ -30,12 +30,12 @@ The repository contains various files including :
 
 - cat.jpg: Example image of the input data used to test the models.
 
-- images_results.png: Visualization of the results obtained from the notebook.
+- images_results_cats_dogs.png: Visualization of the results obtained from the notebook.
 
 # Results
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MetalGray/Cat_vs_Dogs_CNN/main/images_results.png" />
+  <img src="https://raw.githubusercontent.com/MetalGray/Cat_vs_Dogs_CNN/main/images_results_cats_dogs.png" />
 </p>
 
 # Credits
