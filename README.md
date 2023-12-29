@@ -1,4 +1,4 @@
-# Cats_vs_Dogs_CNN
+# Cats vs Dogs CNN
 
 <p align="center">
   <img src="https://www.finder.com.au/niche-builder/5f7d3685592c8.jpg?fit=1200"/>
@@ -23,23 +23,14 @@ The main advantage of CNNs over other types of neural networks is their ability 
 # Dataset
 The dataset used for this project is "The Asirra dataset," which consists of over 25,000 images of dogs and cats annotated images of cats and dogs. The dataset was extracted from two different sources : Microsoft for the TensorFlow notebook and Kaggle for the PyTorch notebook. Don't worry about the dataset, you will download from the TensorFlow notebook and PyTorch notebook.
 
-# Files
+# File
 The repository contains various files including :
 
-- Cats_vs_Dogs_CNN_PyTorch.ipynb : Jupyter notebook containing the code for the Convolutional Neural Network model developed in PyTorch.
-
-- Cats_vs_Dogs_CNN_TensorFlow_Keras.ipynb: Jupyter notebook containing the code for the Convolutional Neural Network model developed in TensorFlow/Keras.
+- Cats_vs_Dogs.ipynb: Jupyter notebook containing the code for the Convolutional Neural Network model developed in TensorFlow/Keras.
 
 - cat.jpg: Example image of the input data used to test the models.
 
-- images_results.png: Visualization of the results obtained from the PyTorch notebook.
-
-# Dependencies
-This project requires the following dependencies:
-- You need a Kaggle account in order to retrieve the API key which give you the kaggle.json file. To retrive that in Kaggle, go on Setting => Create New Token or Expire Token then Create New Token.
-- I recommend having a good GPU because of the runtime during training. Otherwise, you have to be very patient.
-
-To use this project, simply download or clone the repository and open the Jupyter notebook for either TensorFlow or PyTorch. Follow the instructions in the notebook to train and test the model.
+- images_results.png: Visualization of the results obtained from the notebook.
 
 # Results
 
@@ -48,7 +39,7 @@ To use this project, simply download or clone the repository and open the Jupyte
 </p>
 
 # Credits
-This project was created by MetalGray and LH-devcat. The dataset used for this project is "The Asirra dataset," which is available under the Microsoft but also in Kaggle. Here are the two URLs to retrieve the dataset :
+This project was created by raynaldlao and LH-devcat. The dataset used for this project is "The Asirra dataset," which is available under the Microsoft but also in Kaggle. Here are the two URLs to retrieve the dataset :
 
 - Microsoft : https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip
-- Kaggle : https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview/evaluation
+- Kaggle : https://www.kaggle.com/c/dogs-vs-cats/overview
